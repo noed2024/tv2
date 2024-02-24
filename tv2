@@ -118,9 +118,9 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="PELICULAS", El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
-#EXTINF:0, ASESINOS DE LA LUNA
+#EXTINF:-1 group-title="PELICULAS", ASESINOS DE LA LUNA
 http://vod.tuxchannel.mx/peliculas/720/killers%20of%20the%20flower%20moon%202023.mkv
-#EXTINF:0, WONKA
+#EXTINF:-1 group-title="PELICULAS", WONKA
 https://dl.dropboxusercontent.com/s/qg8f7y31hbu37ty9k2y9w/Wonka.2023.1080p.WEB-DL.DDP5.1.H.264.mp4?rlkey=1ln06ffzr66j0fr2n8wnqmuhb&dl=0
 #EXTINF:-1 group-title="PELICULAS", NYAD
 http://vod.tuxchannel.mx/peliculas/720/nyad%202023.mkv
