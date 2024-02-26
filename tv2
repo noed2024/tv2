@@ -118,6 +118,10 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="PELICULAS", El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
+#EXTINF:-1 group-title="PELICULAS", POOR THINGS filemoon
+https://be6721.rcr72.waw04.cdn112.com/hls2/02/05602/ht6blob03bol_h/index-v1-a1.m3u8?t=2xKcIOsphkauYY5bQk0oVRp4vHBJAufCBAaxgOca5CM&s=1708988960&e=43200&f=28014315&srv=28&asn=8151&sp=2000
+#EXTINF:-1 group-title="PELICULAS", POOR THINGS streamwish
+https://i7ly1dgj.sw-cdnstream.com/hls2/01/03162/9ontr1jk0i2t_,x,o,.urlset/index-f2-v1-a1.m3u8?t=OmiTBvFsbVd3c67GRC2v4hTt4VFswnHdPh9IPxDAs74&s=1708989252&e=129600&f=15810591&srv=qdviciif656d&i=0.4&sp=500&p1=qdviciif656d&p2=qdviciif656d&asn=8151
 #EXTINF:-1 group-title="PELICULAS", ASESINOS DE LA LUNA
 http://vod.tuxchannel.mx/peliculas/720/killers%20of%20the%20flower%20moon%202023.mkv
 #EXTINF:-1 group-title="PELICULAS", WONKA
@@ -140,19 +144,3 @@ http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455335.mkv
 http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455336.mkv
 #EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E07
 http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455337.mkv
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1X01
-https://yq03l8bsm8te.sw-cdnstream.com/hls2/01/03126/9mi90x02gxy9_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=VQtWuMw-70hMfBsVkZKqz9avNUvAy3_lhN_yQvlaz2Q&s=1708803980&e=129600&f=15630500&srv=W5Yj349NT2GF&i=0.4&sp=500&p1=W5Yj349NT2GF&p2=W5Yj349NT2GF&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x02
-https://nd2fut82nala.sw-cdnstream.com/hls2/01/03126/8us4zei2wm5x_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=AhQeJye7ZEq7u-2OLhFfh96y4D2ZvWEUoXZV6qJ7vac&s=1708804070&e=129600&f=15630477&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x03
-https://fq97k6f9wh.sw-cdnstream.com/hls2/01/03126/uklvwsfunvap_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=EyNbrui4aXXk7WDTwPvrNcWNyachge6Ql6_DZF0WXsM&s=1708804126&e=129600&f=15630492&srv=G4AWRwDNYoRF&i=0.4&sp=500&p1=G4AWRwDNYoRF&p2=G4AWRwDNYoRF&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x04
-https://nd2fut82nala.sw-cdnstream.com/hls2/01/03126/hlf6el8t2z3w_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=OKGDOKb8sxR61yR9k9aaTpiqDPO32Myr9LHA0WxNdkY&s=1708804390&e=129600&f=15630905&srv=txmraegnjpog&i=0.4&sp=500&p1=txmraegnjpog&p2=txmraegnjpog&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x05
-https://atkwogsk5.sw-cdnstream.com/hls2/01/03126/nqyp2qgfidhp_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Ol2fj5bIgQzpLF3zsumdqPg400hAepFIMv3YmHO6yZU&s=1708804432&e=129600&f=15630899&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x06
-https://ku8irth3qn.sw-cdnstream.com/hls2/01/03126/97khem1ikpjc_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=f8dW8v_XPRtQoEsiXkOolwHxhBw_4YMqibfTThVU5e8&s=1708804660&e=129600&f=15630839&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x07
-https://yvgdwtamlx.sw-cdnstream.com/hls2/01/03126/tgk02y4m0o2n_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=KH5Y37YgmeQUO4-xPsvgdQISi6rAU5sTJop9P3zU814&s=1708804752&e=129600&f=15631213&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8151
-#EXTINF:-1 group-title="Zona Netflix " Avatar: La leyenda de Aang 1x08
-https://mtgaoqvzuxsp.sw-cdnstream.com/hls2/01/03126/nlzcxhfkri2r_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=MfLPURV4hhiZd-cqIOkIsy8NT7vv1VGSL0-gcArbpwY&s=1708804774&e=129600&f=15631283&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8151
