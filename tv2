@@ -118,10 +118,8 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="PELICULAS", El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
-#EXTINF:-1 group-title="PELICULAS", POOR THINGS filemoon
-https://be6721.rcr72.waw04.cdn112.com/hls2/02/05602/ht6blob03bol_h/index-v1-a1.m3u8?t=2xKcIOsphkauYY5bQk0oVRp4vHBJAufCBAaxgOca5CM&s=1708988960&e=43200&f=28014315&srv=28&asn=8151&sp=2000
-#EXTINF:-1 group-title="PELICULAS", POOR THINGS streamwish
-https://i7ly1dgj.sw-cdnstream.com/hls2/01/03162/9ontr1jk0i2t_,x,o,.urlset/index-f2-v1-a1.m3u8?t=OmiTBvFsbVd3c67GRC2v4hTt4VFswnHdPh9IPxDAs74&s=1708989252&e=129600&f=15810591&srv=qdviciif656d&i=0.4&sp=500&p1=qdviciif656d&p2=qdviciif656d&asn=8151
+#EXTINF:-1 group-title="PELICULAS", POOR THINGS
+http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
 #EXTINF:-1 group-title="PELICULAS", ASESINOS DE LA LUNA
 http://vod.tuxchannel.mx/peliculas/720/killers%20of%20the%20flower%20moon%202023.mkv
 #EXTINF:-1 group-title="PELICULAS", WONKA
