@@ -2,6 +2,10 @@
 
 #EXTINF:-1 group-title="LIGA MX", eurpaleague
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/03/06/Sporting_CP_vs_Atalanta_20240306_1709740521039/cmaf-cenc-ctr-7000K/7000_complete.m3u8
+#EXTINF:-1 group-title="LIGA MX", prueba canal 5
+https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDEuMTUx/2_.m3u8?token=CDgsxg1jSYQKe2DtbEDA0w&expires=1709762489
+#EXTINF:-1 group-title="LIGA MX", prueba tudn
+https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDEuMTUx/3_.m3u8?token=eWaDxS8xiaJ5Bsc5R-zBBQ&expires=1709762633
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", CANAL 5
