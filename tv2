@@ -12,10 +12,14 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index.m3u8
 #EXTINF:-1 group-title="LIGA MX", AFIZZIONADOS
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="LIGA MX", FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", ZONA TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="LIGA MX", TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 1
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 2
@@ -80,6 +84,14 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ESPN", ESPN DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+#EXTINF:-1 group-title="ESPN", ESPN 1 MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1 group-title="ESPN", ESPN 2 MX
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="ESPN", ESPN 3 MX
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES OP
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/57185
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES OP1
