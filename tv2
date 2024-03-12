@@ -104,11 +104,13 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/57185
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57185
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES OP2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP1
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP2
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/20
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP3
+#EXTINF:-1 group-title="ESPN", ESPN DEPORTES restream
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+#EXTINF:-1 group-title="ESPN", ESPN SUR OP1 r
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
+#EXTINF:-1 group-title="ESPN", ESPN SUR  2 restream
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/518964
+#EXTINF:-1 group-title="ESPN", ESPN SUR OP3 
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/21
 #EXTINF:-1 group-title="ESPN", ESPN SUR HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/230
