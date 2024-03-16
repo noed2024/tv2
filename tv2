@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIGA MX", eurpaleague
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/03/06/Sporting_CP_vs_Atalanta_20240306_1709740521039/cmaf-cenc-ctr-7000K/7000_complete.m3u8
-#EXTINF:-1 group-title="LIGA MX", prueba canal 5
-https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDEuMTUx/2_.m3u8?token=CDgsxg1jSYQKe2DtbEDA0w&expires=1709762489
-#EXTINF:-1 group-title="LIGA MX", prueba tudn
-https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDEuMTUx/3_.m3u8?token=eWaDxS8xiaJ5Bsc5R-zBBQ&expires=1709762633
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", CANAL 5
@@ -96,28 +90,14 @@ http://restreamus.com:8080/play2022/XASFqNvz3ThB/218710
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES restream
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP1 r
+#EXTINF:-1 group-title="ESPN", ESPN SUR OP1 restream
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
 #EXTINF:-1 group-title="ESPN", ESPN SUR  2 restream
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/518964
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP3 
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/21
-#EXTINF:-1 group-title="ESPN", ESPN SUR HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/230
-#EXTINF:-1 group-title="ESPN", ESPN SUR 3
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/22
-#EXTINF:-1 group-title="ESPN", ESPN SUR 2 HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
-#EXTINF:-1 group-title="ESPN", ESPN SUR 3 HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/228
-#EXTINF:-1 group-title="ESPN", ESPN 4 HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/229
-#EXTINF:-1 group-title="ESPN", ESPN SUR 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
-#EXTINF:-1 group-title="ESPN", ESPN SUR 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
-#EXTINF:-1 group-title="ESPN", FOX DEPORTES
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58573
+#EXTINF:-1 group-title="ESPN", ESPN ARGENTINA restreamus
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/233972
+#EXTINF:-1 group-title="ESPN", TUDN USA restreamus
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/395
 #EXTINF:-1 group-title="ESPN", TUDN USA
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
 #EXTINF:-1 group-title="ESPN", TUDN HD USA 
@@ -164,3 +144,5 @@ http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455335.mkv
 http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455336.mkv
 #EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E07
 http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455337.mkv
+#EXTINF:-1 group-title="XXX",XXX
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/1350
