@@ -104,31 +104,31 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
 #EXTINF:-1 group-title="ESPN", TUDN USA fHD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
-#EXTINF:-1 group-title="PELICULAS", Día de entrenamiento (2001)
+#EXTINF:-1 group-title="MOVIES", Día de entrenamiento (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
-#EXTINF:-1 group-title="PELICULAS", El Efecto Mariposa (2004)
+#EXTINF:-1 group-title="MOVIES", El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
-#EXTINF:-1 group-title="PELICULAS", POOR THINGS
+#EXTINF:-1 group-title="MOVIES", POOR THINGS
 http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", ASESINOS DE LA LUNA
+#EXTINF:-1 group-title="MOVIES", ASESINOS DE LA LUNA
 http://vod.tuxchannel.mx/peliculas/720/killers%20of%20the%20flower%20moon%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", WONKA
+#EXTINF:-1 group-title="MOVIES", WONKA
 https://dl.dropboxusercontent.com/s/qg8f7y31hbu37ty9k2y9w/Wonka.2023.1080p.WEB-DL.DDP5.1.H.264.mp4?rlkey=1ln06ffzr66j0fr2n8wnqmuhb&dl=0
-#EXTINF:-1 group-title="PELICULAS", NYAD
+#EXTINF:-1 group-title="MOVIES", NYAD
 http://vod.tuxchannel.mx/peliculas/720/nyad%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", BLADE RUNNER 2049
+#EXTINF:-1 group-title="MOVIES", BLADE RUNNER 2049
 http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv
-#EXTINF:-1 group-title="PELICULAS", SPACEMAN 2024
+#EXTINF:-1 group-title="MOVIES", SPACEMAN 2024
 http://vod.tuxchannel.mx/peliculas/720/spaceman%202024.mkv
-#EXTINF:-1 group-title="PELICULAS", RUSTIN 2023
+#EXTINF:-1 group-title="MOVIES", RUSTIN 2023
 http://vod.tuxchannel.mx/peliculas/720/rustin%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", MAESTRO 2023
+#EXTINF:-1 group-title="MOVIES", MAESTRO 2023
 http://vod.tuxchannel.mx/peliculas/720/maestro%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", NIMONA
+#EXTINF:-1 group-title="MOVIES", NIMONA
 http://vod.tuxchannel.mx/peliculas/720/nimona%202023.mkv
-#EXTINF:-1 group-title="PELICULAS", OPPENHEIMER
+#EXTINF:-1 group-title="MOVIES", OPPENHEIMER
 http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
-#EXTINF:-1 group-title="PELICULAS", AMERICAN FICTION
+#EXTINF:-1 group-title="MOVIES", AMERICAN FICTION
 http://vod.tuxchannel.mx/peliculas/720/american%20fiction%202023.mkv
 #EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E01
 http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455331.mkv
