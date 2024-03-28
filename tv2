@@ -86,24 +86,16 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ESPN", ESPN ARGENTINA
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/218710
-#EXTINF:-1 group-title="ESPN", ESPN DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-#EXTINF:-1 group-title="ESPN", ESPN DEPORTES restream
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
-#EXTINF:-1 group-title="ESPN", ESPN SUR OP1 restream
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
-#EXTINF:-1 group-title="ESPN", ESPN SUR  2 restream
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/518964
+#EXTINF:-1 group-title="ESPN", ESPN COLOMBIA
+http://twomonkeys.live:80/Josue123/Josue123/602823
+#EXTINF:-1 group-title="ESPN", ESPN ARG 2MONKEYS
+http://twomonkeys.live:80/Josue123/Josue123/1070136
+#EXTINF:-1 group-title="ESPN", DGO ARG 2MONKEYS
+http://twomonkeys.live:80/Josue123/Josue123/589317
 #EXTINF:-1 group-title="ESPN", ESPN ARGENTINA restreamus
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/233972
 #EXTINF:-1 group-title="ESPN", TUDN USA restreamus
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/395
-#EXTINF:-1 group-title="ESPN", TUDN USA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
-#EXTINF:-1 group-title="ESPN", TUDN HD USA 
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
-#EXTINF:-1 group-title="ESPN", TUDN USA fHD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
 #EXTINF:-1 group-title="MOVIES", Día de entrenamiento (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="MOVIES", El Efecto Mariposa (2004)
@@ -130,19 +122,13 @@ http://vod.tuxchannel.mx/peliculas/720/nimona%202023.mkv
 http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
 #EXTINF:-1 group-title="MOVIES", AMERICAN FICTION
 http://vod.tuxchannel.mx/peliculas/720/american%20fiction%202023.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E01
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455331.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E02
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455332.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E03
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455333.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E04
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455334.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E05
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455335.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E06
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455336.mkv
-#EXTINF:-1 group-title="Zona Netflix ",Breaking Bad S01 E07
-http://home-playtv.com:8080/series/restreamhome/HUvCLa351719/455337.mkv
+#EXTINF:-1 group-title="MOVIES", SILENCE
+http://vod.tuxchannel.mx/peliculas/720/silence.mkv
+#EXTINF:-1 group-title="Zona Netflix ",El problema de los 3 cuerpos ep 6
+https://jz7qcjwobno47.sw-cdnstreamwish.com/hls2/01/03376/rwu9nzbhx563_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zx-XpNMqMiYs2dJi-KPRX2O4WfJB1cPexCqsXTqw0Yo&s=1711587211&e=129600&f=16881380&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8151
+#EXTINF:-1 group-title="Zona Netflix ",El problema de los 3 cuerpos ep 7
+https://whpgl5sx.sw-cdnstreamwish.com/hls2/01/03376/ljzj5as198gp_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=ITsleUj1znU-GWuQgRps_5xI1Xos970zsEiehkOGh6Y&s=1711587302&e=129600&f=16882114&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8151
+#EXTINF:-1 group-title="Zona Netflix ",El problema de los 3 cuerpos ep 8
+https://j87wrsp3nydp.sw-cdnstreamwish.com/hls2/01/03376/b2capup0xpyv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jUVgzBkcKBU5a9Sb0urrsDx-tyKlmRP4dDDU7TCrbHs&s=1711587347&e=129600&f=16882113&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8151
 #EXTINF:-1 group-title="XXX",XXX
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/1350
