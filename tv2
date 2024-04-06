@@ -110,6 +110,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/836
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="MOVIES", El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
+#EXTINF:-1 group-title="MOVIES", NAPOLEON
+http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv
+#EXTINF:-1 group-title="MOVIES", NO COUNTRY FOR OLD MEN
+http://vod.tuxchannel.mx/peliculas/720/no%20country%20for%20old%20men%202007.mkv
 #EXTINF:-1 group-title="MOVIES", POOR THINGS
 http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
 #EXTINF:-1 group-title="MOVIES", ASESINOS DE LA LUNA
