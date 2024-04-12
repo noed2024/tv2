@@ -108,6 +108,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/723
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/836
 #EXTINF:-1 group-title="ESPN", ESPN 1 ARG tvplus
 https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=k03ddgSDi3lPNHvakbKMog&expires=1712959395
+#EXTINF:-1 group-title="ESPN", ESPN 1 ARG tvplus op 2
+https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=hRieVlCcLtCpoF2Ekt4lgw&expires=1712962351
 #EXTINF:-1 group-title="ESPN", ESPN 2 ARG tvplus
 https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/18_.m3u8?token=ee1TwXtvOnvFnMNlTyy12Q&expires=1712960170
 #EXTINF:-1 group-title="MOVIES", PANIC ROOM
