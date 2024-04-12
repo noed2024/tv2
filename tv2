@@ -106,6 +106,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/835
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/723
 #EXTINF:-1 group-title="ESPN", ESPN 2 ARG op2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/836
+#EXTINF:-1 group-title="MOVIES", PANIC ROOM
+https://be4235.rcr32.ams02.cdn112.com/hls2/02/05419/2p9jzcjho48o_h/index-v1-a1.m3u8?t=qeQepsHflbW_qY0K_1Es1kzyUL-Na3jmzutqCenY50w&s=1712887784&e=43200&f=27098342&srv=29&asn=8151&sp=4000&fr=2p9jzcjho48o
 #EXTINF:-1 group-title="MOVIES", Día de entrenamiento (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="MOVIES", El Efecto Mariposa (2004)
@@ -139,7 +141,7 @@ http://vod.tuxchannel.mx/peliculas/720/american%20fiction%202023.mkv
 #EXTINF:-1 group-title="MOVIES", SILENCE
 http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 #EXTINF:-1 group-title="MOVIES", OLDBOY
-https://jkdapll4.sw-cdnstreamwish.com/hls2/01/02715/hqc9m3jyfvmw_n/index-v1-a1.m3u8?t=ui1tlOnYJ8jrmBoC8z2VxuCfuoVkOgYMfyDxQAnmCck&s=1711676296&e=129600&f=15584416&srv=hkpl82vl0bni&i=0.4&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8151
+https://scyh6qaq.sw-cdnstreamwish.com/hls2/01/02715/hqc9m3jyfvmw_n/index-v1-a1.m3u8?t=pVk_d3F6oc_hS5n-n3e4U4kYUCzdl6NQL6V9mYNdybQ&s=1712887917&e=129600&f=15584416&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8151
 #EXTINF:-1 group-title="Zona Netflix ",El problema de los 3 cuerpos ep 6
 https://jz7qcjwobno47.sw-cdnstreamwish.com/hls2/01/03376/rwu9nzbhx563_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zx-XpNMqMiYs2dJi-KPRX2O4WfJB1cPexCqsXTqw0Yo&s=1711587211&e=129600&f=16881380&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8151
 #EXTINF:-1 group-title="Zona Netflix ",El problema de los 3 cuerpos ep 7
