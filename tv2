@@ -10,16 +10,10 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="LIGA MX", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index.m3u8
-#EXTINF:-1 group-title="LIGA MX", AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LIGA MX", FOX DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", ZONA TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LIGA MX", TUDN USA
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 1
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 2
@@ -122,8 +116,6 @@ https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 #EXTINF:-1 group-title="MOVIES", NAPOLEON
 http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv
-#EXTINF:-1 group-title="MOVIES", NO COUNTRY FOR OLD MEN
-http://vod.tuxchannel.mx/peliculas/720/no%20country%20for%20old%20men%202007.mkv
 #EXTINF:-1 group-title="MOVIES", POOR THINGS
 http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
 #EXTINF:-1 group-title="MOVIES", ASESINOS DE LA LUNA
