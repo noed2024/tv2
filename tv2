@@ -112,6 +112,8 @@ https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=k03ddgSD
 https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=hRieVlCcLtCpoF2Ekt4lgw&expires=1712962351
 #EXTINF:-1 group-title="ESPN", ESPN 2 ARG tvplus
 https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/18_.m3u8?token=ee1TwXtvOnvFnMNlTyy12Q&expires=1712960170
+#EXTINF:-1 group-title="ESPN", TUDN USA
+http://goldfull.pro:8880/gtv801xx/DSBTAFmms82q/390210
 #EXTINF:-1 group-title="MOVIES", PANIC ROOM
 https://be4235.rcr32.ams02.cdn112.com/hls2/02/05419/2p9jzcjho48o_h/index-v1-a1.m3u8?t=qeQepsHflbW_qY0K_1Es1kzyUL-Na3jmzutqCenY50w&s=1712887784&e=43200&f=27098342&srv=29&asn=8151&sp=4000&fr=2p9jzcjho48o
 #EXTINF:-1 group-title="MOVIES", Día de entrenamiento (2001)
