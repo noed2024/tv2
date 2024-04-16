@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="LIGA MX", BARZA PSG
+http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", CANAL 5
