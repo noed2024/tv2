@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="LIGA MX", CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 group-title="LIGA MX", TERRORTV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 group-title="LIGA MX", MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 group-title="LIGA MX", BARZA PSG
 http://rabanito.crabdance.com:8081/clubtv.php?cat=Deportes&canal=FOX_SPORTS_SUR&usuario=botudopack&token=m364li5t0n3d5b8fd33a932a1e31572f0a0284f95a4&f=index.m3u8
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
