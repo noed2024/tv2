@@ -143,6 +143,22 @@ http://vod.tuxchannel.mx/peliculas/720/american%20fiction%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 #EXTINF:-1 group-title="MOVIES", OLDBOY
 https://scyh6qaq.sw-cdnstreamwish.com/hls2/01/02715/hqc9m3jyfvmw_n/index-v1-a1.m3u8?t=pVk_d3F6oc_hS5n-n3e4U4kYUCzdl6NQL6V9mYNdybQ&s=1712887917&e=129600&f=15584416&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8151
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E01
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2_nYQU47sx0oUdJOGhvcRJ#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E02
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2tepIMFkMDxKDriDdojjVG#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E03
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt1WTdFLtlWiVPD1vpZYRO-e#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E04
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt0tX917_TrG037fFSu3EEhx#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E05
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2kYynJjMLzlHkTALnqg5HU#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E06
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2uKXtm8kBl8YPD6cuUeBIc#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E07
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2AU-Lp1ndkcuHUOn-oOTWD#.mp4
+#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E08
+http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt1kKOMrL-4OcMz0jKj34-ib#.mp4
 #EXTINF:-1 group-title="Zona Netflix ", RIPLEY 1
 http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z2NOLvtW7ra5lwWooI7YRlp#.mkv
 #EXTINF:-1 group-title="Zona Netflix ", RIPLEY 2
@@ -183,8 +199,20 @@ http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9czroBU
 http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9cVMBfH_gvvXMKVPIQiyFIj#.mkv
 #EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E10
 http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9d9DFlXJBvAYLgxMspG6G9L#.mkv
-#EXTINF:-1 group-title="XXX",XXX
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/1350
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES legends
 http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1c_l2_Zx1s3JYs49HIiykKq_MouAVu8kBlT3qaal_ayFq/ts
 #EXTINF:-1 group-title="DEPORTES", ESPN ARG legens
