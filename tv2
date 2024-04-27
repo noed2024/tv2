@@ -86,6 +86,20 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="ESPN", ESPN ARGENTINA
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/218710
 #EXTINF:-1 group-title="ESPN", ESPN COLOMBIA
