@@ -237,7 +237,7 @@ http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9cVMBfH
 #EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E10
 http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9d9DFlXJBvAYLgxMspG6G9L#.mkv
 #EXTINF:-1 group-title="DEPORTES", ESPN
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
