@@ -32,6 +32,8 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="LIGA MX", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="LIGA MX", AZTECA 7 op2
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/4d59b17a-e286-42d2-962b-42fe750b1b44:TUL/variant/3f47e0b7a8f316ab5253d852a4a42628/bandwidth/1016400.m3u8
 #EXTINF:-1 group-title="LIGA MX", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index.m3u8
 #EXTINF:-1 group-title="LIGA MX", TUDN
