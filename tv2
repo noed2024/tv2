@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", UNIVISION
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/77089
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TELEMUNDO
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/77087
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", STARZ
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/41
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TUDN USA
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TUDN USA
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/77061
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", CBS SPORTS
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/377
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES
 https://nxt.plus:8443/jesus01/jesus01/160760
 #EXTINF:-1 group-title="ESPN", ESPN 1 | CO
