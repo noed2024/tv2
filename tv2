@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="ESPN", ESPN DEPORTES
+https://nxt.plus:8443/jesus01/jesus01/160760
+#EXTINF:-1 group-title="ESPN", ESPN 1 | CO
+http://nxt.plus:8080/jesus01/jesus01/43527
+#EXTINF:-1 group-title="ESPN", DSPORTS 2 HD
+http://nxt.plus:8080/jesus01/jesus01/68829
+#EXTINF:-1 group-title="ESPN", DSPORTS+ HD
+http://nxt.plus:8080/jesus01/jesus01/68830
+#EXTINF:-1 group-title="ESPN", ESPN EXTRA HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/16915
+#EXTINF:-1 group-title="ESPN", ESPN 2 | SUR
+http://nxt.plus:8080/jesus01/jesus01/767
+#EXTINF:-1 group-title="ESPN", ESPN 3 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/3267
+#EXTINF:-1 group-title="ESPN", ESPN 4 | SUR
+http://nxt.plus:8080/jesus01/jesus01/763
+#EXTINF:-1 group-title="ESPN", ESPN 1 | CL
+http://nxt.plus:8080/jesus01/jesus01/43528
+#EXTINF:-1 group-title="ESPN", ESPN 1 HD | CL
+http://nxt.plus:8080/jesus01/jesus01/58201
+#EXTINF:-1 group-title="ESPN", ESPN 2 HD | CL
+http://nxt.plus:8080/jesus01/jesus01/58202
+#EXTINF:-1 group-title="ESPN", ESPN HD | UY
+http://nxt.plus:8080/jesus01/jesus01/168572
+#EXTINF:-1 group-title="ESPN", DSPORTS HD
+http://nxt.plus:8080/jesus01/jesus01/166706
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
 #EXTINF:-1 group-title="LIGA MX", CINE
