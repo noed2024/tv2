@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="ZONA NETFLIX", Los Caballeros 1
+https://gs5udtppa5.sw-cdnstreamwish.com/hls2/01/03249/vhj61zxf7ol1_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jPtXumCPnBEY1CTbAjkmNGwCEd2Y9toIrgsCihjLdT8&s=1717462938&e=129600&f=16248733&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8151
+#EXTINF:-1 group-title="ZONA NETFLIX", Los Caballeros 2
+https://m8lb9i2jsuhyh.sw-cdnstreamwish.com/hls2/01/03249/3y8h6ly9ve60_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Udkjplx-DijBjtUfHegyjPh04BWRzW2UTjUPR7Thl2g&s=1717463045&e=129600&f=16248766&srv=hkpl82vl0bni&i=0.0&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8151
+#EXTINF:-1 group-title="ZONA NETFLIX", Los Caballeros 3
+https://y8tlqvihzpbs.sw-cdnstreamwish.com/hls2/01/03249/ig4vocr44r9u_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=qKbM1FDxAHOdeMxZRJHoTR5W141ac4s-ZzJDAi-sx8s&s=1717463100&e=129600&f=16248759&srv=gyosvd7o4yrzfsqy&i=0.0&sp=500&p1=gyosvd7o4yrzfsqy&p2=gyosvd7o4yrzfsqy&asn=8151
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", UNIVISION
 http://app.agametv.com:25461/CatherineP1963/Catherine1963/77089
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TELEMUNDO
