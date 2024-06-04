@@ -1,29 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1 PE  " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 PE  
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/220727
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1  SD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1  SD ►℗
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/219173
-#EXTINF:-1 tvg-id="espn.pe" tvg-name="DEP | ESPN 1 PE HD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 PE HD ►℗
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/219172
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1 HD " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 HD 
-#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN Deportes SD
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/54094
-#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="DEP | ESPN 2 AR " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 AR 
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/185666
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 AR SD  ►℗" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 AR SD  ►℗
-http://home-playtv.com:8080/zuihaod3/4L3kkazMcx/518964
-#EXTINF:-1 group-title="LIGA MX", prueba tudn
-https://n4.dramaticreadings.com:999/hls/extremotvhuawei.m3u8?md5=U_i9HgBhN1MFSdf34Qpq9w&expires=1714606444
 #EXTINF:-1 group-title="LIGA MX", CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 group-title="LIGA MX", TERRORTV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 group-title="LIGA MX", MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 group-title="LIGA MX", prueba fox deportes
-https://delta02.dlive.click/9mRYvwveLJIniuAb3nVP1w/1714615497/323830363a313039663a373a343639353a343031353a353333323a666533323a64343633/ff480/playlist.m3u8?b=1
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", CANAL 5
@@ -112,44 +95,8 @@ https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
 https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="ESPN", ESPN ARGENTINA
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/218710
-#EXTINF:-1 group-title="ESPN", ESPN COLOMBIA
-http://twomonkeys.live:80/Josue123/Josue123/602823
-#EXTINF:-1 group-title="ESPN", ESPN ARG 2MONKEYS
-http://twomonkeys.live:80/Josue123/Josue123/1070136
-#EXTINF:-1 group-title="ESPN", ESPN 2 CO 2MONKEYS
-http://twomonkeys.live:80/Josue123/Josue123/1069848
-#EXTINF:-1 group-title="ESPN", DGO ARG 2MONKEYS
-http://twomonkeys.live:80/Josue123/Josue123/589317
-#EXTINF:-1 group-title="ESPN", ESPN ARGENTINA restreamus
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/233972
-#EXTINF:-1 group-title="ESPN", TUDN USA restreamus
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/395
-#EXTINF:-1 group-title="ESPN", ESPN DEPORTES rasta
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
-#EXTINF:-1 group-title="ESPN", ESPN 1 AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/835
-#EXTINF:-1 group-title="ESPN", ESPN 2 ARG
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/723
-#EXTINF:-1 group-title="ESPN", ESPN 2 ARG op2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/836
-#EXTINF:-1 group-title="ESPN", ESPN 1 ARG tvplus
-https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=k03ddgSDi3lPNHvakbKMog&expires=1712959395
-#EXTINF:-1 group-title="ESPN", ESPN 1 ARG tvplus op 2
-https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/17_.m3u8?token=hRieVlCcLtCpoF2Ekt4lgw&expires=1712962351
-#EXTINF:-1 group-title="ESPN", ESPN 2 ARG tvplus
-https://live.sdfgnksbounce.com:8080/MTg3LjEzNi4yNDMuMTg4/18_.m3u8?token=ee1TwXtvOnvFnMNlTyy12Q&expires=1712960170
-#EXTINF:-1 group-title="ESPN", TUDN USA
-http://goldfull.pro:8880/gtv801xx/DSBTAFmms82q/390210
-#EXTINF:-1 group-title="MOVIES", PANIC ROOM
-https://be4235.rcr32.ams02.cdn112.com/hls2/02/05419/2p9jzcjho48o_h/index-v1-a1.m3u8?t=qeQepsHflbW_qY0K_1Es1kzyUL-Na3jmzutqCenY50w&s=1712887784&e=43200&f=27098342&srv=29&asn=8151&sp=4000&fr=2p9jzcjho48o
 #EXTINF:-1 group-title="MOVIES", Día de entrenamiento (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 #EXTINF:-1 group-title="MOVIES", El Efecto Mariposa (2004)
@@ -182,62 +129,6 @@ http://vod.tuxchannel.mx/peliculas/720/american%20fiction%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 #EXTINF:-1 group-title="MOVIES", CRONOCRIMENES
 https://jturq6cd3wcv.pradoi.com/hls2/01/03883/whgwgso3c4he_,n,h,.urlset/index-f2-v1-a1.m3u8?t=x5Fulpo4ylzNscP5AcDZvFr4097Wvbpp1Rh3F_QOe04&s=1716343508&e=129600&f=19415162&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8151
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E01
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2_nYQU47sx0oUdJOGhvcRJ#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E02
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2tepIMFkMDxKDriDdojjVG#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E03
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt1WTdFLtlWiVPD1vpZYRO-e#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E04
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt0tX917_TrG037fFSu3EEhx#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E05
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2kYynJjMLzlHkTALnqg5HU#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E06
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2uKXtm8kBl8YPD6cuUeBIc#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E07
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt2AU-Lp1ndkcuHUOn-oOTWD#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", Los Caballeros -The Gentlemen: La serie S01E08
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF19EBgRSc8xuUtHi6BKdTt1kKOMrL-4OcMz0jKj34-ib#.mp4
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 1
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z2NOLvtW7ra5lwWooI7YRlp#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 2
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z2lZs_keRTkd87VgNkkNdyB#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 3
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z1dU8Uc7Os7tgu6XYuOQDdO#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 4
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z3l5OqFeV9br8Ntgq6G0pw1#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 5
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z3KKK9jG8Oi9ihSOf22f0iE#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 6
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z035ALOkwUu0hMxHeIDZn9g#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 7
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z3rx9WnjKBV-81WAAQsjMkj#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", RIPLEY 8
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF5GY6E2CA0cjCLbJhCNR3z1BxSJMs23yFw71F_ob8kIe#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", secuestro del vuelo 601 5
-https://eyfgjy2bc1.sw-cdnstreamwish.com/hls2/01/03553/gcggo39lp5za_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=yx260kxTONbfzjUq7AN1cuBJbKl2oDYKgi57L4efY-0&s=1713039263&e=129600&f=17766411&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8151
-#EXTINF:-1 group-title="Zona Netflix ", secuestro del vuelo 601 6
-https://5s7oz6yqk8.sw-cdnstreamwish.com/hls2/01/03553/xgsymfo1hphd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=xF9YmWBz3XspWovF6drG5cjpSnnU7h7-E8fYI8ofkWo&s=1713039287&e=129600&f=17766412&srv=j5zsnx2vbwpa4&i=0.4&sp=500&p1=j5zsnx2vbwpa4&p2=j5zsnx2vbwpa4&asn=8151
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E01
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9ekntV1SVVKDWuALXkvR0qS#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E02
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9fa99qDPKqEDQYurcVT5v9a#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E03
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9fwiBbNxWpMLr6i8GrOkq_h#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E04
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9cQy8uPBmka9HIr_OO8UFGa#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E05
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9fvVGetDbcKGTeGAF0Q_XxU#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E06
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9c1r8Mi5z4lW32oE42gs0TB#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E07
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9cHYksWp0tD82qEkoARyqY9#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E08
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9czroBUuL6jecuPgtf23bbK#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E09
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9cVMBfH_gvvXMKVPIQiyFIj#.mkv
-#EXTINF:-1 group-title="Zona Netflix ", Castle Rock S01E10
-http://legendstv.com.mx:80/play/TseJqOEnaBcldGGlSR3GF-U_yDk3PIjtHY2vyKtOr9d9DFlXJBvAYLgxMspG6G9L#.mkv
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
@@ -252,16 +143,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES legends
-http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1c_l2_Zx1s3JYs49HIiykKq_MouAVu8kBlT3qaal_ayFq/ts
-#EXTINF:-1 group-title="DEPORTES", ESPN ARG legens
-http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1cxKXaE2RJQWuNHrRfrnkP_kj5OuHBSBaJYNPG2xtuuLJ/ts
-#EXTINF:-1 group-title="DEPORTES", ESPN COL legends
-http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1cxKXaE2RJQWuNHrRfrnkP_lOimC57WSa0WLKwWxFrrBh/ts
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 COL legend
-http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1cxKXaE2RJQWuNHrRfrnkP_kCvEYgXQGgmoamVZmpm8VG/ts
-#EXTINF:-1 group-title="DEPORTES", DGO SPORTS legends
-http://legendstv.com.mx:80/play/V0l8zfJ2aFFksTA-21w1c_xkSgC-GKbAeJPt4YqgER89qRtiM4hOxs1FfZB2Pxd8/ts
 #EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS HD
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/92683
 #EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES NETWORK HD
@@ -376,36 +257,6 @@ http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/6760
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/556
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM HD
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/92515
-#EXTINF:-1 group-title="DEPORTES", GARAGE TV 
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/34497
-#EXTINF:-1 group-title="DEPORTES", GARAGE TV HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/31340
-#EXTINF:-1 group-title="DEPORTES", GOLF LATIN AMERICA
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/92606
-#EXTINF:-1 group-title="DEPORTES", GOLF LATIN AMERICA HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/6689
-#EXTINF:-1 group-title="DEPORTES", GOLTV (Ecuador) 
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/5635
-#EXTINF:-1 group-title="DEPORTES", GOLTV 2 HD (Ecuador)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90082
-#EXTINF:-1 group-title="DEPORTES", GOLTV HD (Ecuador)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/7811
-#EXTINF:-1 group-title="DEPORTES", GOLTV HD (Internacional)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/23011
-#EXTINF:-1 group-title="DEPORTES", LATIN AMERICAN SPORT
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/92826
-#EXTINF:-1 group-title="DEPORTES", RED BULL TV HD 
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/10784
-#EXTINF:-1 group-title="DEPORTES", SKY SPORTS CRICKET HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/92896
-#EXTINF:-1 group-title="DEPORTES", SKY SPORTS MAINT EVENT HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90182
-#EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE HD 
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90184
-#EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE HD 
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90181
-#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS (honduras)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90179
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS (Chile)  
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/28994
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS 2 (Chile)
@@ -424,22 +275,6 @@ http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/37168
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/67460
 #EXTINF:-1 group-title="DEPORTES", TUDN USA HD
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/23113
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/93077
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS HD (Internacinal)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/31315
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS HD LOCAL (Argentina)
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/61605
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/23219
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/857
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS MAS   
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/34695
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS MAS HD
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/492
-#EXTINF:-1 group-title="DEPORTES", GOLTV
-http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/93076
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS NEWS HD
 http://tv.soccerplus.link:8000/wilmenmedina/SJv9JKJEWR/90183
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS F1 HD
