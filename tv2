@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="PRUEBA", ESPN
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158891
+#EXTINF:-1 group-title="PRUEBA", ESPN MX SD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159317
+#EXTINF:-1 group-title="PRUEBA", ESPN DEPORTES SD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159324
 #EXTINF:-1 group-title="ZONA NETFLIX", Los Caballeros 3
 https://in1rhjc5cqhz.pradoi.com/hls2/01/03249/ig4vocr44r9u_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=g9fgdc1BYE0hyXA1GZYFTLfzwpBBbkRYzHy256NGxrI&s=1717725010&e=129600&f=16248759&srv=gyosvd7o4yrzfsqy&i=0.0&sp=500&p1=gyosvd7o4yrzfsqy&p2=gyosvd7o4yrzfsqy&asn=8151
 #EXTINF:-1 group-title="ZONA NETFLIX", Los Caballeros 4
