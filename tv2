@@ -91,6 +91,8 @@ https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
 https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 6
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 6 Euro
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 7
 https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", VIX DEPORTES 8
