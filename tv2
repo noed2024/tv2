@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="PRUEBA", ESPN ARGENTINA
-http://981347758683776668.otjb0606.xyz:80/live/GUEL230815/9462358BAQTG/776668.ts
-#EXTINF:-1 group-title="PRUEBA", ESPN ARGENTINA
-http://981347758683776668.otjb0606.xyz:80/live/GUEL230815/9462358BAQTG/776668.m3u8
-#EXTINF:-1 group-title="PRUEBA", ESPN
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158891
-#EXTINF:-1 group-title="PRUEBA", ESPN MX SD
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159317
-#EXTINF:-1 group-title="PRUEBA", ESPN DEPORTES SD
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159324
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", UNIVISION
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/77089
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TELEMUNDO
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/77087
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", STARZ
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/41
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TUDN USA
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", TUDN USA
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/77061
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", CBS SPORTS
-http://app.agametv.com:25461/CatherineP1963/Catherine1963/377
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES
 https://nxt.plus:8443/jesus01/jesus01/160760
 #EXTINF:-1 group-title="ESPN", ESPN 1 | CO
@@ -49,12 +27,6 @@ http://nxt.plus:8080/jesus01/jesus01/168572
 http://nxt.plus:8080/jesus01/jesus01/166706
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
-#EXTINF:-1 group-title="LIGA MX", CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 group-title="LIGA MX", TERRORTV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
-#EXTINF:-1 group-title="LIGA MX", MONITV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 group-title="LIGA MX", LAS ESTRELLAS 
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LIGA MX", CANAL 5
