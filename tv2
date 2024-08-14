@@ -119,6 +119,8 @@ https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="MOVIES", EXHUMA
+http://vod.tuxchannel.mx/peliculas/720/exhuma%202024.mkv
 #EXTINF:-1 group-title="MOVIES", PRISONERS
 http://vod.tuxchannel.mx/peliculas/720/prisoners.mkv
 #EXTINF:-1 group-title="MOVIES", ARRIVAL
