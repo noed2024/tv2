@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="ESPN", DTV SPORTS 1
+http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
+#EXTINF:-1 group-title="ESPN", DTV SPORTS 2
+http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
+#EXTINF:-1 group-title="ESPN", De Pelicula
+http://190.185.121.102:58092/play/a00n
+#EXTINF:-1 group-title="ESPN", Distrito Comedia HD
+http://190.185.121.102:58092/play/a00r
+#EXTINF:-1 group-title="ESPN", ESPN Sur
+http://190.185.121.102:58092/play/a00v
+#EXTINF:-1 group-title="ESPN", El Canal De Las Estrellas
+http://190.185.121.102:58092/play/a00o
+#EXTINF:-1 group-title="ESPN", Liga Espanola
+http://190.185.121.102:58092/play/a00t
+#EXTINF:-1 group-title="ESPN", TUDN HD
+http://190.185.121.102:58092/play/a00m
+#EXTINF:-1 group-title="ESPN", Telemundo Miami
+http://190.185.121.102:58092/play/a00f
+#EXTINF:-1 group-title="ESPN", TyC Sport HD
+http://190.185.121.102:58092/play/a00p
 #EXTINF:-1 group-title="ESPN", ESPN DEPORTES
 https://nxt.plus:8443/jesus01/jesus01/160760
 #EXTINF:-1 group-title="ESPN", ESPN 1 | CO
