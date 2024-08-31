@@ -139,6 +139,10 @@ https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="MOVIES", THE SILENCE OF THE LAMBS
+http://vod.tuxchannel.mx/peliculas/720/the%20silence%20of%20the%20lambs.mkv
+#EXTINF:-1 group-title="MOVIES", HANNIBAL
+http://vod.tuxchannel.mx/peliculas/720/hannibal.mkv
 #EXTINF:-1 group-title="MOVIES", THE TRAP
 https://yrwo6l2a.cdn-jupiter.com/hls2/01/04807/6xdm2wt03sya_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JRU7WcmTvSBsqbT4thesAD5KUqKqJdTgmK6bBkjBimI&s=1725056814&e=129600&f=24037778&srv=G2MCisfKubX2&i=0.4&sp=500&p1=G2MCisfKubX2&p2=G2MCisfKubX2&asn=8151
 #EXTINF:-1 group-title="MOVIES", KINDS OF KINDNESS
