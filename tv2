@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="ESPN", EVENTO 1
+https://antag.xyz/extension.php?get=EVENTO1
+#EXTINF:-1 group-title="ESPN", EVENTO 2
+https://antag.xyz/extension.php?get=EVENTO2
 #EXTINF:-1 group-title="ESPN", DTV SPORTS 1
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
 #EXTINF:-1 group-title="ESPN", DTV SPORTS 2
