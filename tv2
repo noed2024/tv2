@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", SEPA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL BEIN SPORTS
+http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 12
+http://145.239.5.177:8080/520/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 13
+http://145.239.5.177:8080/516/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 14
+http://145.239.5.177:8080/521/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1 group-title="ESPN", EVENTO 1
 https://antag.xyz/extension.php?get=EVENTO1
 #EXTINF:-1 group-title="ESPN", EVENTO 2
