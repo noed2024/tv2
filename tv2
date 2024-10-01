@@ -91,6 +91,12 @@ http://nxt.plus:8080/jesus01/jesus01/168572
 http://nxt.plus:8080/jesus01/jesus01/166706
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
+#EXTINF:-1 group-title="MOVIES", BEETLEJUICE BEETLEJUICE
+http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
+#EXTINF:-1 group-title="MOVIES", TRANSFORMERS ONE
+http://vod.tuxchannel.mx/peliculas/720/transformers%20one%202024.mkv
+#EXTINF:-1 group-title="MOVIES", THE WILD ROBOT
+http://vod.tuxchannel.mx/peliculas/720/the%20wild%20robot%202024.mkv
 #EXTINF:-1 group-title="MOVIES", WOLFS
 http://vod.tuxchannel.mx/peliculas/720/wolfs%202024.mkv
 #EXTINF:-1 group-title="MOVIES", THE SUBSTANCE
