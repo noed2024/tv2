@@ -15,8 +15,12 @@ http://tkosportz.live:25461/swilder2023/6063815781/99426
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", SEPA
+#EXTINF:-1 group-title="Bics FUTBOL", LA LIGA 1
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_5.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", LA LIGA 2
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", LA LIGA 3
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL BEIN SPORTS
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
