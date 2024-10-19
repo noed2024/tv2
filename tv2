@@ -191,161 +191,21 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
-#EXTINF:-1 xui-id="2217383" tvg-id="tudn.mx" tvg-name="2MB | TUDN MX" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | 2 Megas",2MB | TUDN MX
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfiL7vqafCvwA6NySXDlihvP7NF5d7KUgbR2YO5i7aYsX
-#EXTINF:-1 xui-id="2123484" tvg-id="" tvg-name="2MB| Food Network" tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | 2 Megas",2MB| Food Network
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwAyl21U9TnReowbk6o3vSOo
-#EXTINF:-1 xui-id="2123481" tvg-id="" tvg-name="2MB| Disney Channel" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | 2 Megas",2MB| Disney Channel
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwA1WJ5OlNKwjxHhc8RTZOc-
-#EXTINF:-1 xui-id="2123480" tvg-id="" tvg-name="2MB| Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TV | 2 Megas",2MB| Telemundo Internacional
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwAwq9VJN9gs7lB8fEbvI7iU
-#EXTINF:-1 xui-id="2123478" tvg-id="" tvg-name="2 MB| Fox Sports 3 LQ" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | 2 Megas",2 MB| Fox Sports 3 LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwAXay4vtHfkvKTX9TO-M59f
-#EXTINF:-1 xui-id="2123477" tvg-id="" tvg-name="2MB| Sky Sports F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-f1-359.png" group-title="TV | 2 Megas",2MB| Sky Sports F1
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwDSsXA6ty9U9VAyJK-nLGRP
-#EXTINF:-1 xui-id="2123476" tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="TV | 2 Megas",2MB| Espn Extra
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwBzMhKTlStYNrC3n_293NU2
-#EXTINF:-1 xui-id="2123475" tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="TV | 2 Megas",2MB| Espn Deportes
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwDCd0u_-E_Kgn6zAqsmGnjg
-#EXTINF:-1 xui-id="2123474" tvg-id="" tvg-name="2MB| Directv Sports 2" tvg-logo="http://ceoapps.org/logos/directvsports2.png" group-title="TV | 2 Megas",2MB| Directv Sports 2
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwCsG75h1hTnP2JYxS_rvUUy
-#EXTINF:-1 xui-id="2123473" tvg-id="" tvg-name="2MB| Directv Sports" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | 2 Megas",2MB| Directv Sports
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfuYKwZxc8f3rPyLpYQndHwA3v6WHwnN5yrxil8jwvHn1
-#EXTINF:-1 xui-id="2095416" tvg-id="" tvg-name="2MB | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | 2 Megas",2MB | Win Sports
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4S6WO2Wp1LsgX66onKw-js
-#EXTINF:-1 xui-id="2095415" tvg-id="" tvg-name="2MB | Espn 2 LQ" tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="TV | 2 Megas",2MB | Espn 2 LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5AJo5mWj5lWTx8SJYhUq4Q
-#EXTINF:-1 xui-id="2095413" tvg-id="" tvg-name="2MB | UFC Fight Pass" tvg-logo="https://ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png" group-title="TV | 2 Megas",2MB | UFC Fight Pass
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7Z9uAhKKvv8zN6Bkq-j4nE
-#EXTINF:-1 xui-id="2095412" tvg-id="" tvg-name="2 MB | GOL TV LQ" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | 2 Megas",2 MB | GOL TV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7QbzPlHeXa-ZKDS6CyIF6z
-#EXTINF:-1 xui-id="2095411" tvg-id="" tvg-name="2MB | Venevision LQ" tvg-logo="http://ceoapps.org/logos/venevision.png" group-title="TV | 2 Megas",2MB | Venevision LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4fQnFz1wy4XdmnvU2YYiN3
-#EXTINF:-1 xui-id="2095410" tvg-id="" tvg-name="2MB | America TV LQ" tvg-logo="http://atlantis-mx.com/logos/americatv.png" group-title="TV | 2 Megas",2MB | America TV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7fiUiU4gRalM4Y6q9EwfMJ
-#EXTINF:-1 xui-id="2095409" tvg-id="" tvg-name="2MB | Caracol LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | 2 Megas",2MB | Caracol LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7h3Xn88QiIXi1cFuGwx_BG
-#EXTINF:-1 xui-id="2095408" tvg-id="" tvg-name="2MB |  RCN LQ" tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | 2 Megas",2MB |  RCN LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7n4cpC-ZsxpQiu_Rc6Io1k
-#EXTINF:-1 xui-id="2095407" tvg-id="" tvg-name="2 MB |  Ecuavisa LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | 2 Megas",2 MB |  Ecuavisa LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7KZfydBhPAn2Mwu318rflQ
-#EXTINF:-1 xui-id="2095406" tvg-id="" tvg-name="2MB | Discovery world LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV | 2 Megas",2MB | Discovery world LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5nTbxCycX8k0wOBEwI-So7
-#EXTINF:-1 xui-id="2095405" tvg-id="" tvg-name="2MB | Discovery Theater LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV | 2 Megas",2MB | Discovery Theater LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4JFYpZ2sH31_FIBc4jzrO1
-#EXTINF:-1 xui-id="2095404" tvg-id="" tvg-name="2MB | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV | 2 Megas",2MB | Discovery Turbo
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4OQdYMA4lnAX6djvz6gAdt
-#EXTINF:-1 xui-id="2095403" tvg-id="americasvoice.us" tvg-name="2MB | Discovery Science LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | 2 Megas",2MB | Discovery Science LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5F6TBP80x9hq2nKHkEtuD7
-#EXTINF:-1 xui-id="2095402" tvg-id="" tvg-name="2MB | Azteca corazón LQ" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV | 2 Megas",2MB | Azteca corazón LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI423pKBvppaqHVHFGIugBsm
-#EXTINF:-1 xui-id="2095401" tvg-id="" tvg-name="2MB | Azteca Clic LQ" tvg-logo="http://ceoapps.org/logos/clic.png" group-title="TV | 2 Megas",2MB | Azteca Clic LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7OnMR2Rm19h8aJUT-LxY6A
-#EXTINF:-1 xui-id="2095400" tvg-id="" tvg-name="2MB | TLC" tvg-logo="http://ceoapps.org/logos/tlc.png" group-title="TV | 2 Megas",2MB | TLC
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI78jaZDvFWo0mfr60MA6pVp
-#EXTINF:-1 xui-id="2095398" tvg-id="canalcinemadinamita.mx" tvg-name="2MB | Cinema Dinamita LQ" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png" group-title="TV | 2 Megas",2MB | Cinema Dinamita LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4SXXcZgzeoS61XqSSAdau8
-#EXTINF:-1 xui-id="2095397" tvg-id="" tvg-name="2MB |  HBO Pop LQ" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | 2 Megas",2MB |  HBO Pop LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI680yuZTAdeGDx9lNckp9CC
-#EXTINF:-1 xui-id="2095396" tvg-id="" tvg-name="2MB | TNT Series" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="TV | 2 Megas",2MB | TNT Series
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4Xu1hP0YycsqsT1Bnk8r7C
-#EXTINF:-1 xui-id="2095395" tvg-id="tooncast.mx" tvg-name="2MB | TOONCAST LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TV | 2 Megas",2MB | TOONCAST LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7EbNeNScD-U96KpbP1lHcP
-#EXTINF:-1 xui-id="2094330" tvg-id="telemundo.us" tvg-name="2MB | TELEMUNDO INTERNACIONAL LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TV | 2 Megas",2MB | TELEMUNDO INTERNACIONAL LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI62vg_8D29AUqjKmf7sDlSh
-#EXTINF:-1 xui-id="2094329" tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://ceoapps.org/logos/beinsports.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS ESPAÑOL LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6MEo-3UbPVudHUbg92kLPV
-#EXTINF:-1 xui-id="2092626" tvg-id="espnlatin.mx" tvg-name="2MB | ESPN MX" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | 2 Megas",2MB | ESPN MX
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7nzvK_9BWKbcMfdbMbReCx
-#EXTINF:-1 xui-id="2092625" tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | 2 Megas",2MB | HBO 2
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6TQWZ4mO2p0vLIDgBtGw4d
-#EXTINF:-1 xui-id="2092624" tvg-id="depelicula.mx" tvg-name="2MB | De Pelicula +" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | 2 Megas",2MB | De Pelicula +
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7cRl07eDTuHsLSJIotmJHN
-#EXTINF:-1 xui-id="2092605" tvg-id="Sky.Mx" tvg-name="2MB | SKY SPORTS LQ" tvg-logo="http://ceoapps.org/logos/skysports.png" group-title="TV | 2 Megas",2MB | SKY SPORTS LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI73eau7t6DEauJUlo8mQ-Iz
-#EXTINF:-1 xui-id="2092604" tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="TV | 2 Megas",2MB | TUDN USA
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI52MmsSAQLxkem3RyLHM7yA
-#EXTINF:-1 xui-id="2092603" tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | 2 Megas",2MB | TNT LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6r3pb-DfJqxgtLijlclvoP
-#EXTINF:-1 xui-id="2092602" tvg-id="amc.mx" tvg-name="2MB | AMC LQ" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | 2 Megas",2MB | AMC LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6olho6a679Aay4FUsyetBr
-#EXTINF:-1 xui-id="2092601" tvg-id="azteca7.mx" tvg-name="2MB | Azteca 7" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV | 2 Megas",2MB | Azteca 7
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4XEU_gBKLJ8ESy0DCNukY4
-#EXTINF:-1 xui-id="2092600" tvg-id="azteca13.mx" tvg-name="2MB | Azteca Uno" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV | 2 Megas",2MB | Azteca Uno
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI56zczks3SsdtiRUEfxIJ92
-#EXTINF:-1 xui-id="2092599" tvg-id="bitme.mx" tvg-name="2MB | BITME LQ" tvg-logo="http://ceoapps.org/logos/bitme.png" group-title="TV | 2 Megas",2MB | BITME LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7cIpAePngOR8SiLAcZTrRz
-#EXTINF:-1 xui-id="2092598" tvg-id="5nacional.mx" tvg-name="2MB | Canal 5" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV | 2 Megas",2MB | Canal 5
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7Fs5XIaoV-VPGSdmwrJC2g
-#EXTINF:-1 xui-id="2092597" tvg-id="cartoonnetwork.mx" tvg-name="2MB | CARTOON NETWORK LQ" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png" group-title="TV | 2 Megas",2MB | CARTOON NETWORK LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI48Cfz185pH2OASymH65y6A
-#EXTINF:-1 xui-id="2092596" tvg-id="cinemax.mx" tvg-name="2MB | CINEMAX LQ" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | 2 Megas",2MB | CINEMAX LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4gh-XLv1K8yDUQd2ni8Uut
-#EXTINF:-1 xui-id="2092595" tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | 2 Megas",2MB | Cinecanal
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI72voM07Hw0TLIylJzxcaTW
-#EXTINF:-1 xui-id="2092594" tvg-id="comedycentral.mx" tvg-name="2 MB | COMEDY CENTRAL LQ" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | 2 Megas",2 MB | COMEDY CENTRAL LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4GXCnbfXr8QsJF9QtlLDjg
-#EXTINF:-1 xui-id="2092593" tvg-id="discoveryhomeandhealth.mx" tvg-name="2MB | DISCOVERY HOME & HEALTH LQ" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="TV | 2 Megas",2MB | DISCOVERY HOME & HEALTH LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5H_7ALJLjEl3LVmswozYir
-#EXTINF:-1 xui-id="2092592" tvg-id="discoverychannel.mx" tvg-name="2MB | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | 2 Megas",2MB | Discovery Channel
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5yAGsiRoFX2ZTCW4DhS5n1
-#EXTINF:-1 xui-id="2092591" tvg-id="distritocomedia.mx" tvg-name="2MB | Distrito Comedia" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="TV | 2 Megas",2MB | Distrito Comedia
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6yg547MVFFfgcj83YgWnVp
-#EXTINF:-1 xui-id="2092590" tvg-id="eentertainment.mx" tvg-name="2MB | E!" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV | 2 Megas",2MB | E!
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7-UmTdsuv6u-smI5up_TFn
-#EXTINF:-1 xui-id="2092589" tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="http://ceoapps.org/logos/starchannel.png" group-title="TV | 2 Megas",2MB | STAR CHANNEL LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6i56q0F8UArFqm7xWSArFG
-#EXTINF:-1 xui-id="2092588" tvg-id="foxsports2.mx" tvg-name="2MB | FOX SPORTS 2 LQ" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | 2 Megas",2MB | FOX SPORTS 2 LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7OaA5HbKGZaSQ9ueCXqII8
-#EXTINF:-1 xui-id="2092587" tvg-id="foxsports.mx" tvg-name="2MB | Fox Sports" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | 2 Megas",2MB | Fox Sports
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6T4bXIX92P-oQunood86xv
-#EXTINF:-1 xui-id="2092586" tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | 2 Megas",2MB | Golden Edge
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4DzNJWqOxTdhnmqINmOBLO
-#EXTINF:-1 xui-id="2092585" tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | 2 Megas",2MB | HBO + LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI53l-uIaYGG1W0lu7PVgBqJ
-#EXTINF:-1 xui-id="2092584" tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | 2 Megas",2MB | HBO
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7kLKoHdkXrgDuUIN7fPXdp
-#EXTINF:-1 xui-id="2092583" tvg-id="imagentv.mx" tvg-name="2MB | IMAGEN TV LQ" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV | 2 Megas",2MB | IMAGEN TV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6I7QEFmIqy3F6pFdoIlcJl
-#EXTINF:-1 xui-id="2092582" tvg-id="mileniotelevision.mx" tvg-name="2MB | MILENIO TV LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV | 2 Megas",2MB | MILENIO TV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7YpRJJOnmMuZ1G9GJoo68f
-#EXTINF:-1 xui-id="2092581" tvg-id="mtv.mx" tvg-name="2MB | MTV LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="TV | 2 Megas",2MB | MTV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5C6iu4Pq18gzKfRPyvO4jh
-#EXTINF:-1 xui-id="2092580" tvg-id="nickjr.mx" tvg-name="2MB | NICK JR. LQ" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="TV | 2 Megas",2MB | NICK JR. LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7h5MdNj7Jios6uwYbDD3LV
-#EXTINF:-1 xui-id="2092579" tvg-id="sonyhd.mx" tvg-name="2MB | Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV | 2 Megas",2MB | Sony
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7fSF8G4dP2SJrqnxkuXPbP
-#EXTINF:-1 xui-id="2092578" tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | 2 Megas",2MB | Space
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6ilpdg3Pk_6OrSzHA-b_dd
-#EXTINF:-1 xui-id="2092576" tvg-id="telenovelas.mx" tvg-name="2MB | TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="TV | 2 Megas",2MB | TL Novelas
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4GutZdBYKAxLoHDVurqS9U
-#EXTINF:-1 xui-id="2092575" tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV | 2 Megas",2MB | Universal Channel
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4YUnkj7c5zLD4IQLxOSGNw
-#EXTINF:-1 xui-id="2092574" tvg-id="warnerchannel.mx" tvg-name="2MB| WARNER LQ" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="TV | 2 Megas",2MB| WARNER LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6f5zJhFEHHRoDv--XUsumH
-#EXTINF:-1 xui-id="2092573" tvg-id="aandemundo.mx" tvg-name="2MB | A&E LQ" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="TV | 2 Megas",2MB | A&E LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7Ci_WQdR477p-dkOL9ZXxN
-#EXTINF:-1 xui-id="2092572" tvg-id="canaladn40.mx" tvg-name="2MB | ADN 40 LQ" tvg-logo="https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="TV | 2 Megas",2MB | ADN 40 LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI7eVou1MQIQPQDrnsULb1vT
-#EXTINF:-1 xui-id="2092571" tvg-id="axn.mx" tvg-name="2MB | AXN" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | 2 Megas",2MB | AXN
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4T6Z55fUYnxhPUbBEgUwqK
-#EXTINF:-1 xui-id="2092570" tvg-id="disneyjunior.mx" tvg-name="2 MB | Disney Jr" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png" group-title="TV | 2 Megas",2 MB | Disney Jr
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI62Ys5-cyOiFd4ToyOtoSqh
-#EXTINF:-1 xui-id="2092569" tvg-id="discoverykids.mx" tvg-name="2 MB | DISCOVERY KIDS LQ" tvg-logo="http://iptv.yelitv.com:8080/images/e8b794dfa8082694fccce018bc494c75.png" group-title="TV | 2 Megas",2 MB | DISCOVERY KIDS LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5vudxNF3ow7GiQdQzCzgTR
-#EXTINF:-1 xui-id="2092568" tvg-id="babytv.mx" tvg-name="2MB | BABY TV LQ" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="TV | 2 Megas",2MB | BABY TV LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5YIY1gkfClkg8IiQgkDkQ7
-#EXTINF:-1 xui-id="2092567" tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | 2 Megas",2MB | Nat Geo
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6OkgQZAVi8-05ULzVZFYWO
-#EXTINF:-1 xui-id="2092566" tvg-id="historychannel.mx" tvg-name="2MB | History" tvg-logo="http://ceoapps.org/logos/history.png" group-title="TV | 2 Megas",2MB | History
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6mGF-e6Jq753yXUzsv0HPl
-#EXTINF:-1 xui-id="2092565" tvg-id="animalplanet.mx" tvg-name="2MB | Animal Planet" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | 2 Megas",2MB | Animal Planet
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6P-8VYPFGYYxFAvw46kR6b
-#EXTINF:-1 xui-id="2092564" tvg-id="unicable.mx" tvg-name="2MB | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="TV | 2 Megas",2MB | Unicable
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4Pcu6H1L3C54ouYBGq0mvm
-#EXTINF:-1 xui-id="2092562" tvg-id="investigationdiscovery.mx" tvg-name="2MB | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | 2 Megas",2MB | Discovery ID
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI6YEnOENkByOQfoAtG50iuw
-#EXTINF:-1 xui-id="2092561" tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1280px-FX-logo.svg.png" group-title="TV | 2 Megas",2MB | FX LQ
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI5ddTCnnH6h8kEIiSEASlWM
-#EXTINF:-1 xui-id="2092556" tvg-id="lasestrellas.mx" tvg-name="2MB | Las Estrellas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | 2 Megas",2MB | Las Estrellas
-https://sdmx.vip:443/play/3AYmdAwO_EVN0d8zKluAfnd0sDr04osLWofOty_7cI4E0_lMZuxCWQG7FXsg0REt
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
+http://voidharbinger.xyz:80/Hamblin33/4562170893/5935
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775800
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775801
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775802
+#EXTINF:-1 group-title="DEPORTES", ESPN 
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775803
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775817
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775818
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
+http://voidharbinger.xyz:80/Hamblin33/4562170893/775819
+#EXTINF:-1 group-title="DEPORTES", ESPN ARGENTINA
+http://181.176.153.106:8090/play/a0rs
