@@ -89,6 +89,8 @@ http://nxt.plus:8080/jesus01/jesus01/168572
 http://nxt.plus:8080/jesus01/jesus01/166706
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
+#EXTINF:-1 group-title="MOVIES", STAR WARS
+http://144.217.70.79/VODS-M/720P/Star%20Wars%20Episode%20IV%20A%20New%20Hope%201977%20(Harmys%20Despecialized%20Edition).mkv
 #EXTINF:-1 group-title="MOVIES", NO COUNTRY FOR OLD MEN
 http://144.217.70.79/VODS-M/1080P/No%20Country%20For%20Old%20Men%202007.mkv
 #EXTINF:-1 group-title="MOVIES", THE BLACK PHONE
