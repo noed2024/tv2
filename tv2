@@ -194,11 +194,11 @@ http://vod.tuxchannel.mx/peliculas/720/maxxxine%202024.mkv
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/chunks.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6
