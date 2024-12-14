@@ -89,10 +89,18 @@ http://nxt.plus:8080/jesus01/jesus01/168572
 http://nxt.plus:8080/jesus01/jesus01/166706
 #EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
 http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
-#EXTINF:-1 group-title="MOVIES", CUCKOO
-https://6wyav2r9i6j.pradoi.com/hls2/01/04986/erltjx27aa32_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fbm7Acb0smAAO-HXJmifcWyy-eMeBhf-Vu-s8ZXE5Vg&s=1729732897&e=129600&f=24930125&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8151
+#EXTINF:-1 group-title="MOVIES", HERETIC
+http://vod.tuxchannel.mx/peliculas/720/heretic%202024.mkv
+#EXTINF:-1 group-title="MOVIES", MOANA 1
+http://vod.tuxchannel.mx/peliculas/720/moana.mkv
+#EXTINF:-1 group-title="MOVIES", MOANA 2
+http://vod.tuxchannel.mx/peliculas/720/moana%202%202024.mkv
+#EXTINF:-1 group-title="MOVIES", DEAR SANTA
+http://vod.tuxchannel.mx/peliculas/720/dear%20santa%202024.mkv
 #EXTINF:-1 group-title="MOVIES", THE NEON DEMON
 http://vod.tuxchannel.mx/peliculas/720/el%20demonio%20neon.mkv
+#EXTINF:-1 group-title="MOVIES", SMILE 1
+http://vod.tuxchannel.mx/peliculas/720/smile%202022.mkv
 #EXTINF:-1 group-title="MOVIES", SMILE 2
 http://vod.tuxchannel.mx/peliculas/720/smile%202%202024.mkv
 #EXTINF:-1 group-title="MOVIES", THE BLACK PHONE
