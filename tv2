@@ -11,69 +11,6 @@ http://tkosportz.live:25461/swilder2023/6063815781/99347
 http://tkosportz.live:25461/swilder2023/6063815781/99415
 #EXTINF:-1 group-title="Bics FUTBOL", UNIVISION DEPORTES
 http://tkosportz.live:25461/swilder2023/6063815781/99426
-#EXTINF:-1 group-title="Bics FUTBOL", FOX DEPORTES
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL MVS
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
-https://cdn-5.nxplay.com.br/ESPN/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
-https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
-https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
-https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
-#EXTINF:-1 group-title="ESPN", DTV SPORTS 1
-http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
-#EXTINF:-1 group-title="ESPN", DTV SPORTS 2
-http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
-#EXTINF:-1 group-title="ESPN", De Pelicula
-http://190.185.121.102:58092/play/a00n
-#EXTINF:-1 group-title="ESPN", Distrito Comedia HD
-http://190.185.121.102:58092/play/a00r
-#EXTINF:-1 group-title="ESPN", ESPN Sur
-http://190.185.121.102:58092/play/a00v
-#EXTINF:-1 group-title="ESPN", El Canal De Las Estrellas
-http://190.185.121.102:58092/play/a00o
-#EXTINF:-1 group-title="ESPN", Liga Espanola
-http://190.185.121.102:58092/play/a00t
-#EXTINF:-1 group-title="ESPN", TUDN HD
-http://190.185.121.102:58092/play/a00m
-#EXTINF:-1 group-title="ESPN", Telemundo Miami
-http://190.185.121.102:58092/play/a00f
-#EXTINF:-1 group-title="ESPN", TyC Sport HD
-http://190.185.121.102:58092/play/a00p
-#EXTINF:-1 group-title="ESPN", ESPN DEPORTES
-https://nxt.plus:8443/jesus01/jesus01/160760
-#EXTINF:-1 group-title="ESPN", ESPN 1 | CO
-http://nxt.plus:8080/jesus01/jesus01/43527
-#EXTINF:-1 group-title="ESPN", DSPORTS 2 HD
-http://nxt.plus:8080/jesus01/jesus01/68829
-#EXTINF:-1 group-title="ESPN", DSPORTS+ HD
-http://nxt.plus:8080/jesus01/jesus01/68830
-#EXTINF:-1 group-title="ESPN", ESPN EXTRA HD | SUR
-http://nxt.plus:8080/jesus01/jesus01/16915
-#EXTINF:-1 group-title="ESPN", ESPN 2 | SUR
-http://nxt.plus:8080/jesus01/jesus01/767
-#EXTINF:-1 group-title="ESPN", ESPN 3 HD | SUR
-http://nxt.plus:8080/jesus01/jesus01/3267
-#EXTINF:-1 group-title="ESPN", ESPN 4 | SUR
-http://nxt.plus:8080/jesus01/jesus01/763
-#EXTINF:-1 group-title="ESPN", ESPN 1 | CL
-http://nxt.plus:8080/jesus01/jesus01/43528
-#EXTINF:-1 group-title="ESPN", ESPN 1 HD | CL
-http://nxt.plus:8080/jesus01/jesus01/58201
-#EXTINF:-1 group-title="ESPN", ESPN 2 HD | CL
-http://nxt.plus:8080/jesus01/jesus01/58202
-#EXTINF:-1 group-title="ESPN", ESPN HD | UY
-http://nxt.plus:8080/jesus01/jesus01/168572
-#EXTINF:-1 group-title="ESPN", DSPORTS HD
-http://nxt.plus:8080/jesus01/jesus01/166706
-#EXTINF:-1 group-title="LA LIGA", ESPN DEPORTES mohdtv
-http://mohdtv.com:8880/ALLChannelsc42afe580789/45367543/2537
 #EXTINF:-1 group-title="MOVIES", CULPA MIA
 http://vod.tuxchannel.mx/peliculas/720/culpa%20mia%202023.mkv
 #EXTINF:-1 group-title="MOVIES", CULPA TUYA
@@ -110,8 +47,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20black%20phone%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/siniestro.mkv
 #EXTINF:-1 group-title="MOVIES", NO RESPIRES
 http://vod.tuxchannel.mx/peliculas/720/no%20respires.mkv
-#EXTINF:-1 group-title="MOVIES", THE SUBSTANCE cuevana
-https://sc0ikg0x.cdn-jupiter.com/hls2/01/05128/npc68vz5y7ns_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_h5x7WDMh64g1fnxYhq3PNQ_PxNcrXXn-oFaOe3qtaA&s=1729562357&e=129600&f=25643194&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8151
 #EXTINF:-1 group-title="MOVIES", INGLOURIOUS BASTERDS
 http://vod.tuxchannel.mx/peliculas/720/inglourious%20basterds.mkv
 #EXTINF:-1 group-title="MOVIES", JOKER FOLIE A DEUX
@@ -138,10 +73,6 @@ http://vod.tuxchannel.mx/peliculas/720/manchester%20by%20the%20sea.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20silence%20of%20the%20lambs.mkv
 #EXTINF:-1 group-title="MOVIES", HANNIBAL
 http://vod.tuxchannel.mx/peliculas/720/hannibal.mkv
-#EXTINF:-1 group-title="MOVIES", DEMOLITION
-https://cvhdarmcmiyy.pradoi.com/hls2/01/03554/uo60em8qwt34_,n,h,.urlset/index-f2-v1-a1.m3u8?t=_sVX_jKg3yaNqwWpQflgBt31w7BUkYC-WAd7LcN8q2I&s=1725500965&e=129600&f=17770146&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8151
-#EXTINF:-1 group-title="MOVIES", PANIC ROOM
-https://cuyyro04xrqrh.pradoi.com/hls2/01/04707/ov7mnwr49l24_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Dr_98KdqqGmtQ686HJIw-pHjqsgORvdNiqMQJ2nBLWI&s=1725501191&e=129600&f=23538147&srv=p1yiis79s8azw&i=0.0&sp=500&p1=p1yiis79s8azw&p2=p1yiis79s8azw&asn=8151
 #EXTINF:-1 group-title="MOVIES", KINDS OF KINDNESS
 http://vod.tuxchannel.mx/peliculas/720/kinds%20of%20kindness%202024.mkv
 #EXTINF:-1 group-title="MOVIES", LONGLEGS
@@ -192,59 +123,3 @@ http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20watchers%202024.mkv
 #EXTINF:-1 group-title="MOVIES", MAXXXINE
 http://vod.tuxchannel.mx/peliculas/720/maxxxine%202024.mkv
-#EXTINF:-1 group-title="DEPORTES", ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 5
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 6
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 7
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
-http://voidharbinger.xyz:80/Hamblin33/4562170893/5935
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775800
-#EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775801
-#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775802
-#EXTINF:-1 group-title="DEPORTES", ESPN 
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775803
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775817
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775818
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-http://voidharbinger.xyz:80/Hamblin33/4562170893/775819
-#EXTINF:-1 group-title="DEPORTES", ESPN ARGENTINA
-http://181.176.153.106:8090/play/a0rs
-#EXTINF:-1, LAS ESTRELLAS
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-#EXTINF:-1, CANAL 5
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
-#EXTINF:-1, IMAGEN TV
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-#EXTINF:-1, AZTECA 7 
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
-#EXTINF:-1, N+ FORO
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
-#EXTINF:-1, AXN
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1, SYFY
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1, GALAVISION
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
-#EXTINF:-1, TELEFORMULA
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
-#EXTINF:-1, ESPN DEPORTES
-https://hastycast.live/hls/377qj1h890g40.m3u8
-#EXTINF:-1, TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1, FOX DEPORTES 
-https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
