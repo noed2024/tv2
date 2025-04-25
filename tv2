@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bics FUTBOL", ESPN 1
-http://tkosportz.live:25461/swilder2023/6063815781/99344
-#EXTINF:-1 group-title="Bics FUTBOL", ESPN 2
-http://tkosportz.live:25461/swilder2023/6063815781/99345
-#EXTINF:-1 group-title="Bics FUTBOL", ESPN 3
-http://tkosportz.live:25461/swilder2023/6063815781/99346
-#EXTINF:-1 group-title="Bics FUTBOL", ESPN DEPORTES
-http://tkosportz.live:25461/swilder2023/6063815781/99347
-#EXTINF:-1 group-title="Bics FUTBOL", TUDN
-http://tkosportz.live:25461/swilder2023/6063815781/99415
-#EXTINF:-1 group-title="Bics FUTBOL", UNIVISION DEPORTES
-http://tkosportz.live:25461/swilder2023/6063815781/99426
+
 #EXTINF:-1 group-title="MOVIES", CULPA MIA
 http://vod.tuxchannel.mx/peliculas/720/culpa%20mia%202023.mkv
 #EXTINF:-1 group-title="MOVIES", CULPA TUYA
